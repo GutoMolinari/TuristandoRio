@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bairros</key>
+	<array>
+		<array>
+			<string>Ipanema</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Praia de Ipanema</string>
+					<key>tipo</key>
+					<string>Praia</string>
+					<key>bairro</key>
+					<string>Ipanema</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>ipanema.jpg</string>
+					<key>endereco</key>
+					<string>Av. Vieira Souto - Ipanema, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Centro</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Theatro Municipal do Rio de Janeiro</string>
+					<key>tipo</key>
+					<string>Cultura/Teatro</string>
+					<key>bairro</key>
+					<string>Centro</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>teatro_municipal.jpg</string>
+					<key>endereco</key>
+					<string>Praça Floriano, S/N - Centro, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Museu Nacional de Belas Artes</string>
+					<key>tipo</key>
+					<string>Cultura/Museu</string>
+					<key>bairro</key>
+					<string>Centro</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>museu_nacional.jpg</string>
+					<key>endereco</key>
+					<string>Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Convento de Santo Antônio</string>
+					<key>tipo</key>
+					<string>Igreja</string>
+					<key>bairro</key>
+					<string>Centro</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>convento.jpg</string>
+					<key>endereco</key>
+					<string>Rua da Carioca, s/n - Centro, Rio de Janeiro</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Paço Imperial</string>
+					<key>tipo</key>
+					<string>Cultura</string>
+					<key>bairro</key>
+					<string>Centro</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>paco_imperial.jpg</string>
+					<key>endereco</key>
+					<string>Praça Quinze de Novembro, 48 - Centro, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Museu Histórico Nacional</string>
+					<key>tipo</key>
+					<string>Museu/Cultura</string>
+					<key>bairro</key>
+					<string>Centro</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>museu_historico_nacional.jpg</string>
+					<key>endereco</key>
+					<string>Praça Mal. Âncora, s/n - Centro, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Alto da Boa Vista</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Corcovado - Cristo Redentor</string>
+					<key>tipo</key>
+					<string>Monumento</string>
+					<key>bairro</key>
+					<string>Alto da Boa Vista</string>
+					<key>nota</key>
+					<string>10/10</string>
+					<key>imagem</key>
+					<string>cristo.jpg</string>
+					<key>endereco</key>
+					<string>Cristo Redentor - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Urca</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Pão de Açucar</string>
+					<key>tipo</key>
+					<string>Natureza/Vista da cidade</string>
+					<key>bairro</key>
+					<string>Urca</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>pao_de_acucar.jpg</string>
+					<key>endereco</key>
+					<string>Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Morro da Urca</string>
+					<key>tipo</key>
+					<string>Natureza/Vista da cidade</string>
+					<key>bairro</key>
+					<string>Urca</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>morro_urca.jpg</string>
+					<key>endereco</key>
+					<string>Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Tijuca</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Floresta da Tijuca</string>
+					<key>tipo</key>
+					<string>Floresta</string>
+					<key>bairro</key>
+					<string>Tijuca</string>
+					<key>nota</key>
+					<string>9/10</string>
+					<key>imagem</key>
+					<string>floresta-da-tijuca.jpg</string>
+					<key>endereco</key>
+					<string>Parque Florestal da Tijuca - Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Pedra Bonita</string>
+					<key>tipo</key>
+					<string>Natureza/Montanha</string>
+					<key>bairro</key>
+					<string>Tijuca</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>pedra_bonita.jpg</string>
+					<key>endereco</key>
+					<string>Estr. das Canoas, 3785 - São Conrado - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Copacabana</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Praia de Copacabana</string>
+					<key>tipo</key>
+					<string>Praia</string>
+					<key>bairro</key>
+					<string>Copacabana</string>
+					<key>nota</key>
+					<string>9/10</string>
+					<key>imagem</key>
+					<string>copacabana.jpg</string>
+					<key>endereco</key>
+					<string>Av. Atlântica 2350, Copacabana , Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Jardim Botânico</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Jardim Botânico</string>
+					<key>tipo</key>
+					<string>Natureza/Parque</string>
+					<key>bairro</key>
+					<string>Jardim Botânico</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>jardim_botanico.jpg</string>
+					<key>endereco</key>
+					<string>R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Parque Laje</string>
+					<key>tipo</key>
+					<string>Natureza</string>
+					<key>bairro</key>
+					<string>Jardim Botânico</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>parque_laje.jpg</string>
+					<key>endereco</key>
+					<string>R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Campo dos Afonsos</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Museu Aeroespacial</string>
+					<key>tipo</key>
+					<string>Museu/Cultura</string>
+					<key>bairro</key>
+					<string>Campo dos Afonsos</string>
+					<key>nota</key>
+					<string>9/10</string>
+					<key>imagem</key>
+					<string>museu_aeroespacial.jpg</string>
+					<key>endereco</key>
+					<string>Av. Marechal Fontenele, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Gávea</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Pedra da Gávea</string>
+					<key>tipo</key>
+					<string>Natureza/Trilha</string>
+					<key>bairro</key>
+					<string>Gávea</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>pedra_gavea.jpg</string>
+					<key>endereco</key>
+					<string>R. Alberto Wolfando Teixeira, 270-886 - São Conrado, Rio de Janeiro</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Planetário da Gávea</string>
+					<key>tipo</key>
+					<string>Cultura</string>
+					<key>bairro</key>
+					<string>Gávea</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>planetario_gavea.jpg</string>
+					<key>endereco</key>
+					<string>Rua Vice-Governador Rúbens Berardo, 100 - Gávea, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>São Cristóvão</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Feira de São Cristóvão</string>
+					<key>tipo</key>
+					<string>Cultura</string>
+					<key>bairro</key>
+					<string>São Cristóvão</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>feira_sao_cristovao.jpg</string>
+					<key>endereco</key>
+					<string>R. Maj. Fonseca, 21 - São Cristóvão, Rio de Janeiro - RJ</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Quinta da Boa Vista</string>
+					<key>tipo</key>
+					<string>Natureza/Parque</string>
+					<key>bairro</key>
+					<string>São Cristóvão</string>
+					<key>nota</key>
+					<string>9/10</string>
+					<key>imagem</key>
+					<string>quinta_boa_vista.jpg</string>
+					<key>endereco</key>
+					<string>Av. Pedro II, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Botafogo</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Aterro do Flamengo</string>
+					<key>tipo</key>
+					<string>Parque</string>
+					<key>bairro</key>
+					<string>Botafogo</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>aterro_flamengo.jpg</string>
+					<key>endereco</key>
+					<string>R. Dois de Dezembro, 112 - Catete, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Maracanã</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Maracanã</string>
+					<key>tipo</key>
+					<string>Estádio/Cultura</string>
+					<key>bairro</key>
+					<string>Macaranã</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>maracana.jpg</string>
+					<key>endereco</key>
+					<string>Av. Pres. Castelo Branco, 5028 - Maracanã, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Lagoa</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Lagoa Rodrigo de Freitas</string>
+					<key>tipo</key>
+					<string>Parque</string>
+					<key>bairro</key>
+					<string>Lagoa</string>
+					<key>nota</key>
+					<string>8/10</string>
+					<key>imagem</key>
+					<string>lagoa_rodrigo_freitas.jpg</string>
+					<key>endereco</key>
+					<string>Av. Borges de Medeiros, 1720-1752 - Lagoa, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Leblon</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Praia do Leblon</string>
+					<key>tipo</key>
+					<string>Praia</string>
+					<key>bairro</key>
+					<string>Leblon</string>
+					<key>nota</key>
+					<string>9/10</string>
+					<key>imagem</key>
+					<string>leblon.jpg</string>
+					<key>endereco</key>
+					<string>Av. Vieira Souto, 8 - Ipanema, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Barra da Tijuca</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Parque Aquático Maria Lenk</string>
+					<key>tipo</key>
+					<string>Esporte</string>
+					<key>bairro</key>
+					<string>Barra da Tijuca</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>parque_aquatico.jpg</string>
+					<key>endereco</key>
+					<string>Av. Embaixador Abelardo Bueno, 3401 - Barra da Tijuca, Rio de Janeiro</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Engenho de Dentro</string>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Estádio Nilton Santos</string>
+					<key>tipo</key>
+					<string>Estádio</string>
+					<key>bairro</key>
+					<string>Engenho de Dentro</string>
+					<key>nota</key>
+					<string>7/10</string>
+					<key>imagem</key>
+					<string>nilton_santos.jpg</string>
+					<key>endereco</key>
+					<string>Rua José dos Reis 425, Rio de Janeiro - RJ</string>
+				</dict>
+			</array>
+		</array>
+	</array>
+</dict>
+</plist>
